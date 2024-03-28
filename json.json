@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Consequatur architecto eligendi asperiores consectetur beatae quis voluptatem.",
+            "body": "Qui voluptatem autem sit distinctio qui accusantium non exercitationem. Tempore exercitationem sed laboriosam reprehenderit eligendi quasi. Qui qui et id voluptate occaecati qui. Rerum ducimus eum cupiditate non impedit enim.",
+            "created_at": "2024-03-28T08:59:25.000000Z",
+            "updated_at": "2024-03-28T08:59:25.000000Z"
+        },
+        {
+            "id": 2,
+            "title": "Molestiae quisquam itaque sunt eveniet.",
+            "body": "Qui ab et voluptas culpa rerum consectetur. Reprehenderit non ad praesentium doloremque odio dolores recusandae. Libero qui esse et debitis.",
+            "created_at": "2024-03-28T08:59:25.000000Z",
+            "updated_at": "2024-03-28T08:59:25.000000Z"
+        },
+        {
+            "id": 3,
+            "title": "Optio esse sed quasi tenetur maiores.",
+            "body": "Nobis occaecati qui ut similique a enim. Quibusdam modi praesentium earum porro itaque. Magnam beatae placeat eum et vitae sequi. A sit beatae voluptate porro suscipit.",
+            "created_at": "2024-03-28T08:59:25.000000Z",
+            "updated_at": "2024-03-28T08:59:25.000000Z"
+        },
+        {
+            "id": 4,
+            "title": "Officiis magnam perspiciatis accusantium ipsam non quasi.",
+            "body": "Dolor sit doloremque culpa sunt laudantium nisi est commodi. Rerum dolorum ea aut harum quos possimus omnis. Voluptas architecto et nihil sint a quibusdam aut.",
+            "created_at": "2024-03-28T08:59:25.000000Z",
+            "updated_at": "2024-03-28T08:59:25.000000Z"
+        },
+        {
+            "id": 5,
+            "title": "Reprehenderit itaque pariatur impedit.",
+            "body": "Qui repudiandae qui qui eveniet. Voluptatem est eos numquam ipsum et inventore. Illum in maiores totam temporibus est aperiam numquam.",
+            "created_at": "2024-03-28T08:59:25.000000Z",
+            "updated_at": "2024-03-28T08:59:25.000000Z"
+        },
+        {
+            "id": 6,
+            "title": "Beatae voluptas corrupti animi minus vero aut facilis.",
+            "body": "Sed ipsam velit voluptatem omnis blanditiis commodi. Voluptate sed deserunt minima cumque nobis. Dolor consequatur inventore non alias.",
+            "created_at": "2024-03-28T08:59:25.000000Z",
+            "updated_at": "2024-03-28T08:59:25.000000Z"
+        },
+        {
+            "id": 7,
+            "title": "Dolor iusto et dolore molestias necessitatibus asperiores.",
+            "body": "Minima quidem impedit voluptatem. Eum error sed fuga ut quos nostrum adipisci rerum. Et illum qui sint nisi. Ut quam dolores quas.",
+            "created_at": "2024-03-28T08:59:25.000000Z",
+            "updated_at": "2024-03-28T08:59:25.000000Z"
+        },
+        {
+            "id": 8,
+            "title": "Repellendus quaerat et sed provident omnis aliquid.",
+            "body": "Eaque quis est id quisquam porro. Voluptas ut aut ea et. Dolor dolorem distinctio quia numquam. Doloremque enim aut fugiat qui laborum porro velit.",
+            "created_at": "2024-03-28T08:59:25.000000Z",
+            "updated_at": "2024-03-28T08:59:25.000000Z"
+        },
+        {
+            "id": 9,
+            "title": "Earum nam consectetur quos asperiores qui.",
+            "body": "Vel saepe expedita porro libero. Sit quisquam et quis tempora. Ea aut ut voluptatem quod.",
+            "created_at": "2024-03-28T08:59:25.000000Z",
+            "updated_at": "2024-03-28T08:59:25.000000Z"
+        },
+        {
+            "id": 10,
+            "title": "Ratione dignissimos harum vitae rem voluptates.",
+            "body": "Omnis culpa magnam rerum. Sed laudantium tempore quisquam qui. Dolores at non impedit rem eius. Beatae vel fugiat molestiae magnam odit est omnis.",
+            "created_at": "2024-03-28T08:59:25.000000Z",
+            "updated_at": "2024-03-28T08:59:25.000000Z"
+        }
+    ],
+    "Message": "Post fetched successfully",
+    "status": 200
+}
